@@ -1,0 +1,17 @@
+/data/data/com.termux/files/home/downloads/Dex2cxx-main/java/src/com/dex2c/dex/DexScanner.java
+/data/data/com.termux/files/home/downloads/Dex2cxx-main/java/src/com/dex2c/cli/CliOptions.java
+/data/data/com.termux/files/home/downloads/Dex2cxx-main/java/src/com/dex2c/cli/Main.java
+/data/data/com.termux/files/home/downloads/Dex2cxx-main/java/src/com/dex2c/model/MethodInfo.java
+/data/data/com.termux/files/home/downloads/Dex2cxx-main/java/src/com/dex2c/filter/MethodFilter.java
+/data/data/com.termux/files/home/downloads/Dex2cxx-main/java/src/com/dex2c/pipeline/NativeNames.java
+/data/data/com.termux/files/home/downloads/Dex2cxx-main/java/src/com/dex2c/pipeline/FileOps.java
+/data/data/com.termux/files/home/downloads/Dex2cxx-main/java/src/com/dex2c/pipeline/SmaliPatcher.java
+/data/data/com.termux/files/home/downloads/Dex2cxx-main/java/src/com/dex2c/pipeline/ToolConfig.java
+/data/data/com.termux/files/home/downloads/Dex2cxx-main/java/src/com/dex2c/pipeline/Descriptor.java
+/data/data/com.termux/files/home/downloads/Dex2cxx-main/java/src/com/dex2c/pipeline/SmaliTools.java
+/data/data/com.termux/files/home/downloads/Dex2cxx-main/java/src/com/dex2c/pipeline/RawApkRebuilder.java
+/data/data/com.termux/files/home/downloads/Dex2cxx-main/java/src/com/dex2c/pipeline/AutoSetup.java
+/data/data/com.termux/files/home/downloads/Dex2cxx-main/java/src/com/dex2c/pipeline/NativeWrapperWriter.java
+/data/data/com.termux/files/home/downloads/Dex2cxx-main/java/src/com/dex2c/pipeline/DccPipeline.java
+/data/data/com.termux/files/home/downloads/Dex2cxx-main/java/src/com/dex2c/pipeline/ProcessRunner.java
+/data/data/com.termux/files/home/downloads/Dex2cxx-main/java/src/com/dex2c/pipeline/JniNames.java
